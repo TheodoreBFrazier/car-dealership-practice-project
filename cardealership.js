@@ -123,7 +123,7 @@ const carInventory = [
         bodyStyle: 'coupe',
         priceInUsd: 1000000,
         stockNo: 1023,
-        condition: used,
+        condition: 'used',
     }
 ];
 
