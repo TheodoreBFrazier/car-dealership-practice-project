@@ -115,6 +115,16 @@ const carInventory = [
         stockNo: 3289,
         condition: 'used',
     },
+    {
+        year: 2010,
+        make: 'Bugatti',
+        model:'Veyron',
+        color: 'red',
+        bodyStyle: 'coupe',
+        priceInUsd: 1000000,
+        stockNo: 1023,
+        condition: used,
+    }
 ];
 
 
