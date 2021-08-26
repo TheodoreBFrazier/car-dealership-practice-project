@@ -1,0 +1,118 @@
+const carInventory = [
+    {
+        year: 2021,
+        make: 'Lamborghini',
+        model: 'Aventador',
+        color: 'Candy Apple Green',
+        bodyStyle: 'coupe',
+        priceInUsd: 465000,
+        stockNo: 2345,
+        condition: 'new',
+    },
+    {
+        year: 2003,
+        make: 'Aston Martin',
+        model: 'Vanquish',
+        color: 'Tungsten Silver',
+        bodyStyle: 'coupe',
+        priceInUsd: 87000,
+        stockNo: 4567,
+        condition: 'used',
+    },
+    {
+        year: 2006,
+        make: 'Porsche',
+        model: 'Carerra GT',
+        color: 'Guards Red',
+        bodyStyle: 'converible',
+        priceInUsd: 940000,
+        stockNo: 3457,
+        condition: 'used,'
+    },
+    {
+        make: 'Porsche',
+        model: '911',
+        examplesForSale: [
+            {
+                year: 2004,
+                generation: '996',
+                model: 'Carerra',
+                color: 'Silver',
+                bodyStyle: 'Targa',
+                priceInUsd: 22000,
+                stockNo: 3222,
+                conditon: 'used',
+            },
+            {
+                year: 1998,
+                generation: '996',
+                model: 'Carerra',
+                color: 'Green',
+                bodyStyle: 'Cabriolet',
+                priceInUsd: 18000,
+                stockNo: 1567,
+                condition: 'used'
+            },
+            {
+                year: 2009,
+                generation: '997',
+                model: 'Carerra',
+                color: 'Black',
+                bodyStyle: 'coupe',
+                priceInUsd: 45000,
+                stockNo: 4589,
+                condition: 'used'
+            },
+            {
+                year: 2021,
+                generation: '992',
+                model: 'Turbo S',
+                color: 'silver',
+                model: 'coupe',
+                priceInUsd: 202000,
+                stockNo: 5678,
+                condition: 'new'
+            }
+        ],
+    },
+    {
+        year: 1997,
+        make: 'Aston Martin',
+        model: 'DB7',
+        color: 'British Racing Green',
+        bodyStyle: 'coupe',
+        priceInUsd: 34000,
+        stockNo: 1890,
+        condition: 'used',
+    },
+    {
+        year: 2021,
+        make: 'Mercedes',
+        model: 'S500',
+        color: 'Nero Black',
+        bodyStyle: 'sedan',
+        priceInUsd: 112900,
+        stockNo: 7890,
+        condition: 'new',
+    },
+    {
+        year: 2008,
+        make: 'Range Rover',
+        color: 'Portofino Blue',
+        bodyStyle: 'SUV',
+        priceInUsd: 19500,
+        stockNo: 4509,
+        condition: 'used',
+    },
+    {
+        year: 2004,
+        make: 'Ferrari',
+        color: 'Yellow',
+        bodyStyle: 'coupe',
+        priceInUsd: 54000,
+        stockNo: 3289,
+        condition: 'used',
+    },
+];
+
+
