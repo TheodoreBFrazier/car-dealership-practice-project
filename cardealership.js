@@ -98,6 +98,7 @@ const carInventory = [
     {
         year: 2008,
         make: 'Range Rover',
+        model: 'Sport',
         color: 'Portofino Blue',
         bodyStyle: 'SUV',
         priceInUsd: 19500,
@@ -107,6 +108,7 @@ const carInventory = [
     {
         year: 2004,
         make: 'Ferrari',
+        model: '456M',
         color: 'Yellow',
         bodyStyle: 'coupe',
         priceInUsd: 54000,
@@ -114,5 +116,6 @@ const carInventory = [
         condition: 'used',
     },
 ];
+
 
 
